@@ -30,7 +30,7 @@ Two classification models were built to predict whether a listing would be booke
   - Precision  
   - Recall  
   - F1-Score  
-- Confusion matrices were plotted to visualize model performance.
+- Confusion matrices were plotted to visualize model performance and better understand true vs. false predictions across classes.
 
 ## Skills and Tools Used
 
