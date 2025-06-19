@@ -1,1 +1,1 @@
-
+This project analyzes Boston Airbnb data to uncover patterns in booking demand and availability. milestone.ipynb focuses on data cleaning and EDA, while milestone2.ipynb enhances the analysis and prepares for modeling.
